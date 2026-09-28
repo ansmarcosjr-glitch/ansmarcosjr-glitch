@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, sou o Anselmo 👋
 
-<!--
-**ansmarcosjr-glitch/ansmarcosjr-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Growth Marketing & Martech Analyst** | Magazine Luiza
 
-Here are some ideas to get you started:
+Atuo com marketing de performance e growth em grandes grupos de varejo e serviços
+(Magazine Luiza, Decathlon, Grupo Habib's), com foco em gestão de funil, LTV/CAC/RFV
+e otimização de investimento em mídia paga (Google, Meta, TikTok).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fora do trabalho, construo minhas próprias ferramentas de martech e automação com IA
+para resolver problemas reais de growth — de inteligência competitiva a
+orquestração de agentes.
+
+## 🔧 O que estou construindo
+
+- **Master Agent** — orquestrador central que coordena agentes de IA especializados
+  por frente de negócio (social media, inteligência de mercado, consultoria financeira),
+  com controle e reporte via Telegram
+- **Marketing Intelligence** — pipeline de scraping para mapeamento de concorrência,
+  índice de preços e volume de busca por palavra-chave
+- **Business Consultant** — motor financeiro automatizado (DRE + Unit Economics)
+  para operações de e-commerce e loja física
+- **Assistente pessoal com IA** — agente que integra Google Apps Script, Telegram e
+  LLMs para gestão de agenda, finanças e planejamento pessoal
+
+## 🛠️ Stack
+
+Python · Google Apps Script · SQL · APIs de IA generativa (Gemini/Claude) · Telegram Bot API
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/anselmo-junior)
